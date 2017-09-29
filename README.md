@@ -1,26 +1,24 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Project Name: Lesson 3 Version Control
 
+## Course Title:
+LIS 2360: Web Application Development
 
-Hi there! Welcome to Cloud9 IDE!
+## Assignment Date:
+(September 29, 2017)
 
-To get you started, we included a small hello world application.
+## Student Name
+(Amber Anderson)
 
-1) Open the hello-world.html file
+## Project Description
+This assignment taught students how and why adding Git to a file is important.
+It taught us that backing up files isn't as difficult as it seems to be and just as simple as linking the files to a program like Github.
 
-2) Click on the Preview button to open a live preview pane
+## View Project
+https://amberson96.github.io/lesson3_VersionControl/
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+## Lessons Learned in the Assignment
+1.) Version Control gives you the opportunity to easily have backup files accessible just in case you delete or wipe out a file completely.
 
-Happy coding!
-The Cloud9 IDE team
+2.) There are three states in Git: Commited, Modified, and Staged. These help with storing data, modifying it, and putting it into the next commit snapshot.
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+3.) Modifying files is easy to accidently do and not even realize it. Git add and Git status help us figure out if a file has been modified from its original state. This helps us keep up to date with what is going on in our files without reading through the entire data.
